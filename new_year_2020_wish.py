@@ -196,7 +196,7 @@ screen = myturtle.getscreen()
 # set background color
 screen.bgcolor(BG_COLOR)
 # set tile of screen
-screen.title("Merry Christmas")
+screen.title("Happy New Year")
 # maximize the screen
 screen.setup(width=1.0, height=1.0)
 
