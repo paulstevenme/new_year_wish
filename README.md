@@ -1,3 +1,3 @@
 # new_year_wish
 
-![](Screenshot.gif)
+![](wish_video_output.gif)
